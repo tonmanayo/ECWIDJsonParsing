@@ -1,8 +1,9 @@
 # ECWIDJsonParsing
 This application takes json data from ecwid and puts it into a .csv file
 
-use get all the products json data from your store and save it in a file called products.json
-use get all the categories json data from your store and save it in a file called categories.json
+HOWTO:
+Get all the products json data from your store then save it in a file called products.json
+Get all the categories json data from your store and save it in a file called categories.json
 
 to get all .json data from profucts: - replace YOURSECRETTOKEN with your token
 https://app.ecwid.com/api/v3/11514205/products?token=YOURSECRETTOKEN
